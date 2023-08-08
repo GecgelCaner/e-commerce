@@ -1,0 +1,18 @@
+______________________  NPM   ______________________
+
+npm install react-router-dom
+npm install react-icons
+npm install react-paginate
+npm install react-slick
+npm install slick-carousel
+npm install react-redux
+npm install @reduxjs/toolkit
+npm install -D tailwindcss
+__________________________________________________
+
+______________________  NPX   ______________________
+
+npx tailwindcss init
+
+__________________________________________________
+
